@@ -1,0 +1,16 @@
+# Dependencies
+/node_modules
+/client/node_modules
+/server/node_modules
+
+# Build artifacts
+/client/dist
+/client/build
+
+# Environment variables (secrets)
+.env
+/server/.env
+
+# Temporary files created by OS or IDEs
+.DS_Store
+*.log
